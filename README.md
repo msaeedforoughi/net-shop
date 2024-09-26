@@ -1,5 +1,4 @@
 # React + TypeScript + Vite + Tailwind
----
 
 ## Project Name
 net-shop
